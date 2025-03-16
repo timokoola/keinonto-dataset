@@ -80,4 +80,6 @@ venv.bak/
 
 # Project specific
 raw-dataset/
-raw-dataset 
+raw-dataset
+temp-tools/
+keinonto-dataset.jsonl 
